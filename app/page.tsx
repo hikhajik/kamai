@@ -7,8 +7,7 @@ export default function Home() {
           If you can read this, your Vercel deployment works. 🎉
         </p>
         <p className="text-sm opacity-70">
-          Edit <code className="px-1 py-0.5 rounded bg-gray-100">app/page.tsx</code> and push to GitHub to see
-          instant redeploys.
+          Edit <code className="px-1 py-0.5 rounded bg-gray-100">app/page.tsx</code> and push to GitHub to see instant redeploys.
         </p>
       </div>
     </main>
